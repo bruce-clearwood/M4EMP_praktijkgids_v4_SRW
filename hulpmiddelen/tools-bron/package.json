@@ -1,0 +1,11 @@
+{
+  "name": "m4emp-tools",
+  "private": true,
+  "description": "Bronbestanden van de tools (Word) van de praktijkgids Media for Empowerment",
+  "scripts": {
+    "bouw": "node bouw.js"
+  },
+  "dependencies": {
+    "docx": "9.7.1"
+  }
+}
