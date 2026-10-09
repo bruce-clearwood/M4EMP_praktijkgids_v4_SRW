@@ -18,6 +18,10 @@ Aparte versie naast v1, om een andere vorm van gebruik te testen. Basis: de leid
 - Startpagina: korte inleiding ("voor jeugdprofessionals die met jongeren media willen maken"), zonder het blok "Zo gebruik je deze gids"; de drie ingangen volgen meteen.
 - Bronnen: de werkveldbevraging bij 61 jeugdprofessionals (mei 2026) staat bij "Hoe deze gids tot stand kwam" en in beide dankwoorden.
 
+- Gesprekskaart met de kernvragen: "Er is geen standaardantwoord", met de zin "Toestemming en inspraak van jongeren zijn niet onderhandelbaar." De kernvraag van fase 2 wordt: "Wat is het doel voor onze organisatie? En wat levert het op voor de jongeren?" (ook als denkvraag in Mijn project).
+
+- Pagina Productiefasen: de inleiding zegt dat de fasen uitgaan van het ideale scenario van een groot project, dat je eruit kiest wat relevant is, en dat toestemming en inspraak de kern blijven. Het kader "Een houvast, geen draaiboek" is ingekort, zodat het dat niet herhaalt.
+
 **Taal en vormgeving**
 - "jeugdwerker" wordt "jeugdprofessional" waar het de lezer aanspreekt; in praktijkbeschrijvingen en functietitels blijft "jeugdwerker" staan. "Cocreatie" overal aaneengeschreven; de zoekfunctie vindt ook "co-creatie".
 - Logobalk met Howest SRW en Quindo bovenaan elke pagina; logo Howest SRW ook in de voettekst en op Over het onderzoek.

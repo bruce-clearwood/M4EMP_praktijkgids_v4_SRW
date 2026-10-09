@@ -35,7 +35,7 @@
   // Denkvraag per fase, overgenomen van de pagina Ethiek en toestemming.
   var DENKVRAGEN = {
     'fase-1': 'Kan een jongere nee zeggen tegen het project zonder nee te zeggen tegen de persoon die het vraagt?',
-    'fase-2': 'Wat wil onze organisatie hiermee, en zeggen we dat aan de jongeren in dezelfde woorden als aan de subsidiegever?',
+    'fase-2': 'Wat is het doel voor onze organisatie? En wat levert het op voor de jongeren?',
     'fase-3': 'Wie is op welk moment waarvoor verantwoordelijk, en weten de jongeren dat?',
     'fase-4': 'Wat betekent "jij beslist" concreet: over je eigen fragmenten, over de volgorde, over het geheel?',
     'fase-5': 'Wat gebeurt er de week na het toonmoment, en wie is er dan?',
